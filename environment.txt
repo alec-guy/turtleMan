@@ -1,0 +1,90 @@
+ACLOCAL_PATH: C:\Program Files\Git\mingw64\share\aclocal;C:\Program Files\Git\usr\share\aclocal
+ALLUSERSPROFILE: C:\ProgramData
+APPDATA: C:\Users\alecb\AppData\Roaming
+CABAL_DIR: C:\cabal
+CHROME_CRASHPAD_PIPE_NAME: \\.\pipe\crashpad_55756_WHYUQUOCPVXRPFYO
+COLORTERM: truecolor
+COMMONPROGRAMFILES: C:\Program Files\Common Files
+COMMONPROGRAMFILES(X86): C:\Program Files (x86)\Common Files
+COMMONPROGRAMW6432: C:\Program Files\Common Files
+COMPUTERNAME: STARFIRE
+COMSPEC: C:\WINDOWS\system32\cmd.exe
+CONFIG_SITE: C:/Program Files/Git/etc/config.site
+DISPLAY: needs-to-be-defined
+DRIVERDATA: C:\Windows\System32\Drivers\DriverData
+EFC_47812: 1
+EXEPATH: C:\Program Files\Git\bin
+FPS_BROWSER_APP_PROFILE_STRING: Internet Explorer
+FPS_BROWSER_USER_PROFILE_STRING: Default
+GHCUP_INSTALL_BASE_PREFIX: C:\
+GHCUP_MSYS2_ENV: MINGW64
+GIT_ASKPASS: c:\Users\alecb\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\askpass.sh
+HOME: C:\Users\alecb
+HOMEDRIVE: C:
+HOMEPATH: \Users\alecb
+HOSTNAME: Starfire
+INFOPATH: C:\Program Files\Git\mingw64\local\info;C:\Program Files\Git\mingw64\share\info;C:\Program Files\Git\usr\local\info;C:\Program Files\Git\usr\share\info;C:\Program Files\Git\usr\info;C:\Program Files\Git\share\info
+LANG: en_US.UTF-8
+LOCALAPPDATA: C:\Users\alecb\AppData\Local
+LOGONSERVER: \\STARFIRE
+MANPATH: C:\Program Files\Git\mingw64\local\man;C:\Program Files\Git\mingw64\share\man;C:\Program Files\Git\usr\local\man;C:\Program Files\Git\usr\share\man;C:\Program Files\Git\usr\man;C:\Program Files\Git\share\man
+MINGW_CHOST: x86_64-w64-mingw32
+MINGW_PACKAGE_PREFIX: mingw-w64-x86_64
+MINGW_PREFIX: C:/Program Files/Git/mingw64
+MSYS: disable_pcon
+MSYSTEM: MINGW64
+MSYSTEM_CARCH: x86_64
+MSYSTEM_CHOST: x86_64-w64-mingw32
+MSYSTEM_PREFIX: C:/Program Files/Git/mingw64
+NUMBER_OF_PROCESSORS: 8
+ONEDRIVE: C:\Users\alecb\OneDrive
+ONEDRIVECONSUMER: C:\Users\alecb\OneDrive
+ORIGINAL_PATH: C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\alecb\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;C:\Program Files\Git\cmd;C:\Program Files\nodejs;C:\Users\alecb\Ccompiler\mingw64\bin;C:\Users\alecb\AppData\Local\Programs\Python\Python312\Scripts;C:\Users\alecb\AppData\Local\Programs\Python\Python312;C:\Users\alecb\AppData\Local\Programs\Python\Launcher;C:\Program Files (x86)\Elm\0.19.1\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Git\cmd;C:\Program Files\nodejs;C:\Program Files\Haskell Platform\bin;C:\Users\YourUsername\AppData\Roaming\npm;C:\bin;C:\ghcup\bin\ghcup.exe;C:\ghcup\bin
+ORIGINAL_TEMP: C:/Users/alecb/AppData/Local/Temp
+ORIGINAL_TMP: C:/Users/alecb/AppData/Local/Temp
+ORIGINAL_XDG_CURRENT_DESKTOP: undefined
+OS: Windows_NT
+PATH: C:\ghcup\bin;C:\cabal\bin;C:\ghcup\msys64\mingw64\bin;C:\ghcup\msys64\usr\bin;C:\Users\alecb\.cabal\bin;C:\Users\alecb\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;C:\Program Files\Git\cmd;C:\Program Files\nodejs;C:\Users\alecb\AppData\Local\Programs\Python\Python312\Scripts;C:\Users\alecb\AppData\Local\Programs\Python\Python312;C:\Program Files (x86)\Elm\0.19.1\bin;C:\ghcup\bin;C:\Users\alecb\Ccompiler\mingw64\bin
+PATHEXT: .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PKG_CONFIG_PATH: C:\Program Files\Git\mingw64\lib\pkgconfig;C:\Program Files\Git\mingw64\share\pkgconfig
+PKG_CONFIG_SYSTEM_INCLUDE_PATH: C:/Program Files/Git/mingw64/include
+PKG_CONFIG_SYSTEM_LIBRARY_PATH: C:/Program Files/Git/mingw64/lib
+PLINK_PROTOCOL: ssh
+PROCESSOR_ARCHITECTURE: AMD64
+PROCESSOR_IDENTIFIER: Intel64 Family 6 Model 140 Stepping 1, GenuineIntel
+PROCESSOR_LEVEL: 6
+PROCESSOR_REVISION: 8c01
+PROGRAMDATA: C:\ProgramData
+PROGRAMFILES: C:\Program Files
+PROGRAMFILES(X86): C:\Program Files (x86)
+PROGRAMW6432: C:\Program Files
+PS1: \[]633;A\]\[\033]0;$TITLEPREFIX:$PWD\007\]\n\[\033[32m\]\u@\h \[\033[35m\]$MSYSTEM \[\033[33m\]\w\[\033[36m\]`__git_ps1`\[\033[0m\]\n$ \[]633;B\]
+PSMODULEPATH: C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+PT8HOME: C:\Program Files\Cisco Packet Tracer 8.2.2
+PUBLIC: C:\Users\Public
+PWD: C:/Users/alecb/haskellProjects/turtleMan
+SESSIONNAME: Console
+SHELL: C:\Program Files\Git\usr\bin\bash.exe
+SHLVL: 1
+SSH_ASKPASS: C:/Program Files/Git/mingw64/bin/git-askpass.exe
+SYSTEMDRIVE: C:
+SYSTEMROOT: C:\WINDOWS
+TEMP: C:\Users\alecb\AppData\Local\Temp
+TERM: xterm-256color
+TERM_PROGRAM: vscode
+TERM_PROGRAM_VERSION: 1.95.3
+TMP: C:\Users\alecb\AppData\Local\Temp
+TMPDIR: C:\Users\alecb\AppData\Local\Temp
+USERDOMAIN: STARFIRE
+USERDOMAIN_ROAMINGPROFILE: STARFIRE
+USERNAME: alecb
+USERPROFILE: C:\Users\alecb
+VBOX_MSI_INSTALL_PATH: C:\Program Files\Oracle\VirtualBox\
+VSCODE_GIT_ASKPASS_EXTRA_ARGS: 
+VSCODE_GIT_ASKPASS_MAIN: c:\Users\alecb\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\askpass-main.js
+VSCODE_GIT_ASKPASS_NODE: C:\Users\alecb\AppData\Local\Programs\Microsoft VS Code\Code.exe
+VSCODE_GIT_IPC_HANDLE: \\.\pipe\vscode-git-70d9807246-sock
+WINDIR: C:\WINDOWS
+ZES_ENABLE_SYSMAN: 1
+_: C:/ghcup/bin/cabal
+turtleMan_datadir: C:\Users\alecb\haskellProjects\turtleMan\.\.
